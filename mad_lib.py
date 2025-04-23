@@ -24,3 +24,6 @@ if st.button("Generate Mad Lib 🥳"):
 
 # Footer
 st.markdown("Made by Hamza Syed~")
+
+# Check out the output
+# https://madlibpythonproject-havrasyc4oqqb868cr8xrk.streamlit.app/
